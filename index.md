@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Probando github pages
+
+
+Este texto venia por defecto
 
 You can use the [editor on GitHub](https://github.com/Atenux/atenux.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
