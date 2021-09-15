@@ -29,7 +29,7 @@ main :: IO ()
 main = putStrLn "Hola mundo!"
 ```
 
-## Imagenes
+## Imágenes
 
 Y aquí no sabia que poner de ejemplo de imagen así que hice una esfera a la rápida en Blender.
 
