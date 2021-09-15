@@ -14,7 +14,7 @@ En **C++** este mismo programa es:
 
 <code>
 
-#include<iostream>
+#include &lt; iostream &gt;
 int main()
 {
     std::cout<<"Hola mundo!"<<std::endl;
