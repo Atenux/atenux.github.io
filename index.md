@@ -1,4 +1,4 @@
-# Mi pagina hecha en Markdown
+# Mi página hecha en Markdown
 
 Esta es una lista numerada de lenguajes que uso para programar, en orden de mi conocimiento de ellos:
 
@@ -7,18 +7,18 @@ Esta es una lista numerada de lenguajes que uso para programar, en orden de mi c
 3. Haskell
 
 En **Python** el programa "hola mundo" es:
+
 `print("Hola mundo!")`
 
 En **C++** este mismo programa es:
-<code>
-#include<iostream>
 
-int main()
-{
-    std::cout<<"Hola mundo!"<<std::endl;
-    return 0
-}
-</code>
+`#include<iostream>`
+
+`int main()`
+`{`
+`    std::cout<<"Hola mundo!"<<std::endl;`
+`    return 0;`
+`}`
 
 Y en **Haskell**:
 
@@ -27,7 +27,7 @@ main :: IO ()
 main = putStrLn "Hola mundo!"
 </code>
 
-##Imagenes
+## Imagenes
 
 Y aquí no sabia que poner de ejemplo de imagen así que hice una esfera a la rápida en Blender.
 
