@@ -20,7 +20,6 @@ int main()
     std::cout<<"Hola mundo!"<<std::endl;
     return 0;
 }
-
 ```
 
 Y en **Haskell**:
@@ -28,7 +27,6 @@ Y en **Haskell**:
 ```
 main :: IO ()
 main = putStrLn "Hola mundo!"
-
 ```
 
 ## Imagenes
