@@ -1,6 +1,40 @@
-## Probando github pages
+# Mi pagina hecha en Markdown
+
+Esta es una lista numerada de lenguajes que uso para programar, en orden de mi conocimiento de ellos:
+
+1. Python
+2. C++
+3. Haskell
+
+En **Python** el programa "hola mundo" es:
+`print("Hola mundo!")`
+
+En **C++** este mismo programa es:
+<code>
+#include<iostream>
+
+int main()
+{
+    std::cout<<"Hola mundo!"<<std::endl;
+    return 0
+}
+</code>
+
+Y en **Haskell**:
+
+<code>
+main :: IO ()
+main = putStrLn "Hola mundo!"
+</code>
+
+##Imagenes
+
+Y aquí no sabia que poner de ejemplo de imagen así que hice una esfera a la rápida en Blender.
+
+![esfera](images/voronoi_sphere.png)
 
 
+<!---
 Este texto venia por defecto
 
 You can use the [editor on GitHub](https://github.com/Atenux/atenux.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,3 +72,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
