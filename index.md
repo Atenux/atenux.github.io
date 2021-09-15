@@ -12,7 +12,7 @@ En **Python** el programa "hola mundo" es:
 
 En **C++** este mismo programa es:
 
-<code>
+```
 
 #include &lt; iostream &gt;
 
@@ -26,16 +26,16 @@ int main()
 
 }
 
-</code>
+```
 
 Y en **Haskell**:
 
-<code>
+```
 
 main :: IO ()
 main = putStrLn "Hola mundo!"
 
-</code>
+```
 
 ## Imagenes
 
