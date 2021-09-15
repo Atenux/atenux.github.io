@@ -13,22 +13,20 @@ En **Python** el programa "hola mundo" es:
 En **C++** este mismo programa es:
 
 <code>
+
 #include<iostream>
-
 int main()
-
 {
-
     std::cout<<"Hola mundo!"<<std::endl;
-
     return 0;
-
 }
+
 </code>
 
 Y en **Haskell**:
 
 <code>
+
 main :: IO ()
 
 main = putStrLn "Hola mundo!"
